@@ -1,0 +1,2 @@
+sharedPreference存储复杂的序列化后的Object的示例
+同时提供一个自己封装的SharedPreference帮助类
